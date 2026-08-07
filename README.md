@@ -55,3 +55,5 @@ The raw dataset contained **541,909 rows** and **8 columns**. To ensure data int
 * **Pandas** (Data Manipulation & Cleaning)
 * **Matplotlib** (Data Visualization)
 * **Jupyter Notebook / Google Colab**
+
+Dataset Source: You can download the dataset used in this project directly from [https://www.kaggle.com/datasets/tunguz/online-retail].
